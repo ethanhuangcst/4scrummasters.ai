@@ -26,7 +26,7 @@
 <br>
 
 ### 1.2 NIOAI.pro "AI壳子"设置   
-1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI",然后点“点击进入”
+1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，选”Open AI",然后点“点击进入”
 <br>
 <img width=688 src=" https://oncadence.com/nioai-1/" />
 <br>
@@ -38,10 +38,11 @@
 <br>
 <img width=688 src=" https://oncadence.com/nioai-3/" />
 <br>
-1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
+1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
 <br>
 <br>
-<b><font size="12" color ="red">请在上课当天使用兑换码，因为免费的体验卡只有一天生效时间</font></b>
+<b><font size="12" color ="red">请在上课当天使用兑换码，</font></b><br>
+<b><font size="12" color ="red">因为免费的体验卡只有一天生效时间</font></b>
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-4/" />
