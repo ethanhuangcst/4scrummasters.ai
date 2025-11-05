@@ -26,7 +26,7 @@
 <br>
 
 ### 1.2 NIOAI.pro AI壳子设置   
-1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”
+1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI",然后点“点击进入”
 <br>
 <img width=688 src=" https://oncadence.com/nioai-1/" />
 <br>
