@@ -15,6 +15,7 @@
 |2   |<a href="https://chat.deepseek.com" target="_blank">DeepSeek</a>|1. 微信登录即可<br>2.便宜，与阿里云、千问结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 可使用更贴近自然语言的对话方式，但是对上下文的假设空间大<br>5. 飘逸的无党派|
 |3   |<a href="https://www.sublimetext.com/download" target="_blank">'Sublime Text'编辑器</a><br>|免费的 Markdown 编辑器，编写 Prompt 首选<br>|
 |4   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|
+
 <br>
 
 ## 2. 驾驭AI必备 - 有效提示词之SPARK范式
@@ -27,6 +28,7 @@
 | **A - Action Role 行动角色（Role Assignment）** | 设置专业角色 | 模拟接近实际业务需求的思维模式 | • 专业角色：指定具备任务相关技能的角色<br>• 领域：强调角色的专业领域 |
 | **R - Rule 规则（Task Rules）** | 建立行为和风格标准 | 确保输出内容一致、专业、可用 | • 示例：给出示例帮助 AI 理解<br>• 特定行为：将“请尽可能清楚描述”改为“必须提供至少三个场景”<br>• 质量要求：如有质量标准，明确说明 |
 | **K - Knowledge Format 知识格式（Output Format）** | 定义输出格式 | 帮助模型保持输出一致性 | • 模板：指定句式/结构模板 |
+
 <br>
 
 ###  2.2 SPARK范式示例
