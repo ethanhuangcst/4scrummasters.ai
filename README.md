@@ -14,10 +14,10 @@
 |编号|大模型/工具|说明|是否必须|
 |----|------|-----|-----|
 |1   |<a href="https://chatgpt.com" target="_blank">ChatGPT</a>|1. 需要番强<br>2. 贵：免费版限制多;Plus版USD20/月;Pro版USD200/月<br>3. 对于中国的数据投喂，与墙外水平相当<br>4. 使用Markdown语法的Prompt时，对对话的假设空间小<br>5. 中规中矩 |否    |
-|2   |<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>|1. 不需要番强就可以用 chatgpt<br>2. 便宜：888RMB一年使用 ChatGPT Pro<br>3. 也支持其他大模型，如Cloude<br>4. 与番强类似，有证册漏洞<br>5. 偶尔不稳定<br>6. 设计网站的人很二<br>7.数据安全没保障 - 偶尔会搜到别人的数据<br>7. 个人科研使用很推荐|是    |
+|2   |<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>|1. 不需要番强就可以用 chatgpt<br>2. 便宜：888RMB一年使用 ChatGPT Pro<br>3. 也支持其他大模型，如Cloude<br>4. 与番强类似，有证册漏洞<br>5. 偶尔不稳定<br>6. 设计网站的人很二<br>7. 数据安全没保障 - 偶尔会搜到别人的数据<br>8. 个人科研使用很推荐|是    |
 |3   |<a href="https://chat.deepseek.com" target="_blank">DeepSeek</a>|1. 微信登录即可<br>2.便宜，与阿里云百炼结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 可使用更贴近自然语言的对话方式，但是对上下文的假设空间大<br>5. 有点傻|否    |
-|4   |<a href="https://chat.qwen.ai" target ="_blank">Qwen(通义千问)</a>|1. 不限流量><br>2. 免费，与阿里云百炼完美结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 没有deepseek傻|否    |
-|5   |<a href="https://chatboxai.app/en#download" target ="_blank">Chatbox - 你自己的 AI 聊天机器人</a>|1. 免费<br>2. 兼容大不部分主流大模型<br>3. 使用方便<br>4. 配置大模型稍有门槛|否   |
+|4   |<a href="https://chat.qwen.ai" target ="_blank">Qwen(通义千问)</a>|1. 不限流量<br>2. 免费，与阿里云百炼完美结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 没有deepseek傻|否    |
+|5   |<a href="https://chatboxai.app/en#download" target ="_blank">Chatbox - 你自己的 AI 聊天机器人</a>|1. 免费<br>2. 兼容大部分主流大模型<br>3. 使用方便<br>4. 配置大模型稍有门槛|否   |
 |6   |<a href="https://www.sublimetext.com/download" target="_blank">'Sublime Text'编辑器</a><br>|免费的 Markdown 编辑器，编写 Prompt 首选<br>|是   |
 |7   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|是    |
 |8   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
@@ -25,7 +25,7 @@
 <br>
 <br>
 
-### 1.2 NIOAI.pro AI壳子设置   
+### 1.2 NIOAI.pro "AI壳子"设置   
 1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI",然后点“点击进入”
 <br>
 <img width=688 src=" https://oncadence.com/nioai-1/" />
@@ -41,7 +41,7 @@
 1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
 <br>
 <br>
-<b><font size="14" color ="red">请在上课当天使用兑换码，因为免费的体验卡只有一天生效时间</font></b>
+<b><font size="12" color ="red">请在上课当天使用兑换码，因为免费的体验卡只有一天生效时间</font></b>
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-4/" />
@@ -55,20 +55,20 @@
 <br>
 ### 1.3 Chatbox 你自己的 AI 聊天机器人设置
 <br>
-<br>
 1.3.1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号
+<br>
 <br>
 1.3.2. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
 <br>
 <img width=688 src="https://oncadence.com/bailian1/" />
 <br>
 <br>
-1.3.3. 在百炼界面，点击左下角“秘钥管理”
+1.3.3. 在百炼界面，点击左下角“密钥管理”
 <br>
 <img width=688 src="https://oncadence.com/bailian2/" />
 <br>
 <br>
-1.3.4. 在秘钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来
+1.3.4. 在密钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来
 <br>
 <img width=688 src="https://oncadence.com/bailian3/" />
 <br>
@@ -83,7 +83,7 @@
 <img width=688 src="https://oncadence.com/chatbox1/" />
 <br>
 <br>
-在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：
+1.3.7. 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：
 <br>
 - API Key : 之前保存的”阿里百炼“ API Key
 - API Host： https://dashscope.aliyuncs.com/compatible-mode/v1
@@ -93,13 +93,15 @@
   <br>
   deepseek-r1-0528 (DeepSeek)
   <br>
-- 在 API Key 一栏右侧，点击”Check：按钮
-- 成功后，Chatbox 就配置完成了<br>
+- 在 API Key 一栏右侧，点击”Check"按钮
+- 成功后，Chatbox 就配置完成了
+<br>
+<br>
 <img width=688 src="https://oncadence.com/chatbox2/" />
 <br>
 参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的Chatbox Model Provider 配置官方文档< /a>
 <br>
-
+<br>
 ---
 <br>
 <br>
