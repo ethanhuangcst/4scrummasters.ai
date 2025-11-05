@@ -25,26 +25,26 @@
 <br>
 <br>
 ### 1.2 NIOAI.pro AI壳子设置   
-1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”
-<img width=full src=" https://oncadence.com/nioai-1/" />
+1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”<br>
+<img width=900 src=" https://oncadence.com/nioai-1/" />
 <br>
-2. 点”注册”，注册一个新账号
-<img width=full src=" https://oncadence.com/nioai-2/" />  
+2. 点”注册”，注册一个新账号<br>
+<img width=900 src=" https://oncadence.com/nioai-2/" />  
 <br>
-<img width=full src=" https://oncadence.com/nioai-3/" />
+<img width=900 src=" https://oncadence.com/nioai-3/" />
 <br>
-3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
-<img width=full src=" https://oncadence.com/nioai-4/" />
+3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”<br>
+<img width=900 src=" https://oncadence.com/nioai-4/" />
 <br>
-4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用。
-<img width=full src=" https://oncadence.com/nioai-5/" />
+4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用。<br>
+<img width=900 src=" https://oncadence.com/nioai-5/" />
 <br>
 <br>
-### 1.3 Chatbox 你自己的 AI 聊天机器人设置
+### 1.3 Chatbox 你自己的 AI 聊天机器人设置<br>
 
 1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号<br>
 3. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”<br>
-<img width=full src="https://oncadence.com/bailian1/" /><br>
+<img width=900 src="https://oncadence.com/bailian1/" /><br>
 4. 在百炼界面，点击左下角“秘钥管理”<br>
 <img width=full src="https://oncadence.com/bailian2/" /><br>
 5. 在秘钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来<br>
