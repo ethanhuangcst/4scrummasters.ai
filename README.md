@@ -7,6 +7,7 @@
 <br>
 <img width=88 src="https://oncadence.com/robot/" />
 <br>
+---
 ## 1. 准备你的 AI 工具箱
 ### 1.1 需要用到的AI大模型和工具
 
@@ -21,6 +22,8 @@
 |7   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|是    |
 |8   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
 
+<br>
+
 ### 1.2 NIOAI.pro AI壳子设置   
 1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”
 <img width=full src=" https://oncadence.com/nioai-1/" />
@@ -31,7 +34,7 @@
 <img width=full src=" https://oncadence.com/nioai-4/" />
 4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用。
 <img width=full src=" https://oncadence.com/nioai-5/" />
-
+<br>
 ### 1.3 Chatbox 你自己的 AI 聊天机器人设置
 1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号
 2. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
@@ -48,19 +51,15 @@
 - API Key : 之前保存的”阿里百炼“ API Key
 - API Host： https://dashscope.aliyuncs.com/compatible-mode/v1
 - 最下面的 Model，手动新增两个：
-  1. qwen3-235b-a22b (qwen)
-  2. deepseek-r1-0528 (DeepSeek)
+  qwen3-235b-a22b (qwen)
+  deepseek-r1-0528 (DeepSeek)
 - 在 API Key 一栏右侧，点击”Check：按钮
 - 成功后，Chatbox 就配置完成了
 <img width=full src="https://oncadence.com/chatbox2/" />
 参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的官方文档< /a> 配置 Model Provider
 
-
-
-
-
-
-
+---
+<br>
 <br>
 
 ## 2. 驾驭AI必备 - 有效提示词之SPARK范式
