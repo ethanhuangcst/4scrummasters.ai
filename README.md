@@ -23,40 +23,46 @@
 |8   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
 
 <br>
-
+<br>
 ### 1.2 NIOAI.pro AI壳子设置   
 1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”
 <img width=full src=" https://oncadence.com/nioai-1/" />
+<br>
 2. 点”注册”，注册一个新账号
 <img width=full src=" https://oncadence.com/nioai-2/" />  
+<br>
 <img width=full src=" https://oncadence.com/nioai-3/" />
+<br>
 3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
 <img width=full src=" https://oncadence.com/nioai-4/" />
+<br>
 4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用。
 <img width=full src=" https://oncadence.com/nioai-5/" />
 <br>
+<br>
 ### 1.3 Chatbox 你自己的 AI 聊天机器人设置
-1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号
-2. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
-<img width=full src="https://oncadence.com/bailian1/" />
-3. 在百炼界面，点击左下角“秘钥管理”
-<img width=full src="https://oncadence.com/bailian2/" />
-4. 在秘钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来
-<img width=full src="https://oncadence.com/bailian3/" />
-5. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装
-<img width=full src="https://oncadence.com/chatbox0/" />
-6. 在 Chatbox app 右下角，点击 Settings
-<img width=full src="https://oncadence.com/chatbox1/" />
+
+1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号<br>
+3. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”<br>
+<img width=full src="https://oncadence.com/bailian1/" /><br>
+4. 在百炼界面，点击左下角“秘钥管理”<br>
+<img width=full src="https://oncadence.com/bailian2/" /><br>
+5. 在秘钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来<br>
+<img width=full src="https://oncadence.com/bailian3/" /><br>
+6. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装<br>
+<img width=full src="https://oncadence.com/chatbox0/" /><br>
+7. 在 Chatbox app 右下角，点击 Settings<br>
+<img width=full src="https://oncadence.com/chatbox1/" /><br>
 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：<br>
 - API Key : 之前保存的”阿里百炼“ API Key
 - API Host： https://dashscope.aliyuncs.com/compatible-mode/v1
-- 最下面的 Model，手动新增两个：
-  qwen3-235b-a22b (qwen)
-  deepseek-r1-0528 (DeepSeek)
+- 最下面的 Model，手动新增两个：<br>
+  qwen3-235b-a22b (qwen)<br>
+  deepseek-r1-0528 (DeepSeek)<br>
 - 在 API Key 一栏右侧，点击”Check：按钮
-- 成功后，Chatbox 就配置完成了
-<img width=full src="https://oncadence.com/chatbox2/" />
-参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的官方文档< /a> 配置 Model Provider
+- 成功后，Chatbox 就配置完成了<br>
+<img width=full src="https://oncadence.com/chatbox2/" /><br>
+参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的官方文档< /a> 配置 Model Provider<br>
 
 ---
 <br>
