@@ -9,6 +9,7 @@
 <br>
 ## 1. 准备你的 AI 工具箱
 ### 1.1 需要用到的AI大模型和工具
+
 |编号|大模型/工具|说明|是否必须|
 |----|------|-----|-----|
 |1   |<a href="https://chatgpt.com" target="_blank">ChatGPT</a>|1. 需要番强<br>2. 贵：免费版限制多;Plus版USD20/月;Pro版USD200/月<br>3. 对于中国的数据投喂，与墙外水平相当<br>4. 使用Markdown语法的Prompt时，对对话的假设空间小<br>5. 中规中矩 |否    |
@@ -20,18 +21,15 @@
 |7   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
 
 ### 1.2 NIOAI.pro AI壳子设置   
-- 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>
+1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，选”Open AI"-“点击进入”
 <img width=full src=" https://oncadence.com/nioai-1/" />
+2. 点”注册”，注册一个新账号
 <img width=full src=" https://oncadence.com/nioai-2/" />  
-<img width=full src=" https://oncadence.com/nioai-3/" />  
-<img width=full src=" https://oncadence.com/nioai-4/" /> 
+<img width=full src=" https://oncadence.com/nioai-3/" />
+3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI AI壳子</a>，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
+<img width=full src=" https://oncadence.com/nioai-4/" />
+4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用。
 <img width=full src=" https://oncadence.com/nioai-5/" /> 
-<img width=full src=" https://oncadence.com/nioai-6/" />  
-
-
-
-
-- 
 
 <br>
 
