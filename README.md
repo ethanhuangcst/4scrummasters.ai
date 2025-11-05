@@ -16,8 +16,8 @@
 |3   |<a href="https://chat.deepseek.com" target="_blank">DeepSeek</a>|1. 微信登录即可<br>2.便宜，与阿里云百炼结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 可使用更贴近自然语言的对话方式，但是对上下文的假设空间大<br>5. 有点傻|否    |
 |4   |<a href="https://chat.qwen.ai" target ="_blank">Qwen(通义千问)</a>|1. 不限流量><br>2. 免费，与阿里云百炼完美结合可低成本训练自己的聊天机器人<br>3. 国内数据投喂良好，洞察有深度<br>4. 没有deepseek傻|否    |
 |5   |<a href="https://www.sublimetext.com/download" target="_blank">'Sublime Text'编辑器</a><br>|免费的 Markdown 编辑器，编写 Prompt 首选<br>|
-|6   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|
-|7   |<a href="blockthis.xyz" target ="_blank">12VPN</a>|稳定的番强梯子|除了贵没缺点|否    |
+|6   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|是    |
+|7   |<a href="blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
 
 <br>
 
