@@ -19,7 +19,8 @@
 |5   |<a href="https://chatboxai.app/en#download" target ="_blank">Chatbox - 你自己的 AI 聊天机器人</a>|1. 免费<br>2. 兼容大部分主流大模型<br>3. 使用方便<br>4. 配置大模型稍有门槛|否   |
 |6   |<a href="https://www.sublimetext.com/download" target="_blank">'Sublime Text'编辑器</a><br>|免费的 Markdown 编辑器，编写 Prompt 首选<br>|否   |
 |7   |<a href="https://www.markdownguide.org/cheat-sheet/" target="_blank">Markdown语法小抄在线版</a><br><a href="https://www.markdownguide.org/assets/markdown-cheat-sheet.md" target="_blank">Markdown 语法小抄下载</a>|Markdown语法小抄，下载的文件可以用上面的 Sublime 打开|是    |
-|8   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
+|8  |<a href="https://v0.app" target="_blank"> v0.app </a>| 快速开发数字化产品工具 |否  |
+|9   |<a href="https://blockthis.xyz" target ="_blank">12VPN</a>|1. 稳定的番强梯子<br>2. 除了贵没缺点|否    |
 
 <br>
 <br>
