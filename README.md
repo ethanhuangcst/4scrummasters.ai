@@ -41,8 +41,8 @@
 1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
 <br>
 <br>
-<b><font size="12" color ="red">请在上课当天使用兑换码，</font></b><br>
-<b><font size="12" color ="red">因为免费的体验卡只有一天生效时间</font></b>
+<b><font color ="red">请在上课当天使用兑换码，</font></b><br>
+<b><font color ="red">因为免费的体验卡只有一天生效时间</font></b>
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-4/" />
