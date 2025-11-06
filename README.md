@@ -62,7 +62,7 @@
 1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
 <br>
 <br>
-**需要注册阿里云账号，后续会产生一些费用**
+**需要注册阿里云账号，后续会产生一些费用**  
 <br>
 <br>
 <img width=688 src="https://oncadence.com/bailian1/" />
