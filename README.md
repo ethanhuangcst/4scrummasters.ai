@@ -59,7 +59,7 @@
 1.3.1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号
 <br>
 <br>
-1.3.2. 登录阿里云，找到<a herf="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
+1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
 <br>
 <img width=688 src="https://oncadence.com/bailian1/" />
 <br>
