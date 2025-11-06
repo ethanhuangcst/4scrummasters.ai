@@ -7,7 +7,7 @@
 <br>
 <img width=88 src="https://oncadence.com/robot/" />
 <br>
----
+<br>
 ## 1. 准备你的 AI 工具箱
 ### 1.1 需要用到的AI大模型和工具
 
@@ -26,19 +26,22 @@
 <br>
 
 ### 1.2 NIOAI.pro "AI壳子"设置   
-1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，选”Open AI",然后点“点击进入”
+**1.2.1. 打开<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，选”Open AI",然后点“点击进入”** 
+<br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-1/" />
 <br>
 <br>
-1.2.2. 点”注册”，注册一个新账号
+**1.2.2. 点”注册”，注册一个新账号** 
+<br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-2/" />  
 <br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-3/" />
 <br>
-1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”
+<br>
+**1.2.3. 回到<a href="https://vip.nioai.pro" target="_blank">NIOAI</a>" AI壳子"，拉到底部找到 ChatGPT 天体验卡，微信加客服要免费兑换码”**
 <br>
 <br>
 <b><font color ="red">请在上课当天使用兑换码，</font></b><br>
@@ -48,7 +51,8 @@
 <img width=688 src=" https://oncadence.com/nioai-4/" />
 <br>
 <br>
-1.2.4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用
+**1.2.4. 回到 ChatGPT 入口，右上角”兑换会员“，输入兑换码后即可使用**
+<br>
 <br>
 <img width=688 src=" https://oncadence.com/nioai-5/" />
 <br>
@@ -56,41 +60,46 @@
 <br>
 ### 1.3 Chatbox 你自己的 AI 聊天机器人设置
 <br>
-1.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人
+**1.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人** 
+<br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox/" />
 <br>
 <br>
-1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
+**1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”** 
 <br>
 <br>
-**需要注册阿里云账号，后续会产生一些费用**  
+<b><font color="red">需要注册阿里云账号，后续会产生一些费用</font></b>
 <br>
 <br>
 <img width=688 src="https://oncadence.com/bailian1/" />
 <br>
 <br>
-1.3.3. 在百炼界面，点击左下角“密钥管理”
+**1.3.3. 在百炼界面，点击左下角“密钥管理”** 
+<br>
 <br>
 <img width=688 src="https://oncadence.com/bailian2/" />
 <br>
 <br>
-1.3.4. 在密钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来
+**1.3.4. 在密钥管理界面，点击右上角“创建API-KEY”，创建成功后将 API-KEY 保存起来**
+<br>
 <br>
 <img width=688 src="https://oncadence.com/bailian3/" />
 <br>
 <br>
-1.3.5. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装
+**1.3.5. 访问<a href="https://chatboxai.app/en" target="_blank"> Chatbox AI 主页</a> 找到下载中心，下载 Chatbox app 并安装**
+<br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox0/" />
 <br>
 <br>
-1.3.6. 在 Chatbox app 右下角，点击 Settings
+**1.3.6. 在 Chatbox app 右下角，点击 Settings**
+<br>
 <br>
 <img width=688 src="https://oncadence.com/chatbox1/" />
 <br>
 <br>
-1.3.7. 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：
+**1.3.7. 在 Model Provider 中, 添加一个新的 Model Provider，名字为”Aliyun“。在右侧依次输入：**
 <br>
 - API Key : 之前保存的”阿里百炼“ API Key
 - API Host： https://dashscope.aliyuncs.com/compatible-mode/v1
@@ -106,12 +115,11 @@
 <br>
 <img width=688 src="https://oncadence.com/chatbox2/" />
 <br>
-参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的Chatbox Model Provider 配置官方文档< /a>
+**参见<a href="https://bailian.console.aliyun.com/?spm=5176.12818093_47.console-base_product-drawer-right.dsfm.1a5a2cc916muTl&tab=doc#/doc/?type=model&url=2880896" target ="_blank">阿里云的Chatbox Model Provider 配置官方文档< /a>**
 <br>
 <br>
----
 <br>
-<br>
+
 
 ## 2. 驾驭AI必备 - 有效提示词之SPARK范式
 ###  2.1 SPARK范式说明
