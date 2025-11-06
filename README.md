@@ -58,6 +58,8 @@
 <br>
 1.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人
 <br>
+<img width=688 src="https://oncadence.com/chatbox/" />
+<br>
 <br>
 1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
 <br>
