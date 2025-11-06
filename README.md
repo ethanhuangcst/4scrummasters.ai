@@ -56,10 +56,14 @@
 <br>
 ### 1.3 Chatbox 你自己的 AI 聊天机器人设置
 <br>
-1.3.1. 在 Chatbox 上可以安装自己的通义千问(qwen)和 DeepSeek 大模型，但是需要阿里百炼的支持。所以首先要注册一个付费的阿里云账号
+1.3.1. Chatbox 和阿里百炼结合，可以配置 qwen 和 DeepSeek，变成自己的专属 AI 聊天机器人
 <br>
 <br>
 1.3.2. 登录阿里云，找到<a href="https://www.aliyun.com/product/bailian" target="_blank">阿里百炼</a>，点击“免费体验”
+<br>
+<br>
+**需要注册阿里云账号，后续会产生一些费用**
+<br>
 <br>
 <img width=688 src="https://oncadence.com/bailian1/" />
 <br>
