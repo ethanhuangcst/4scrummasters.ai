@@ -587,10 +587,11 @@ PMO = 项目管理办公室？NO，有些人翻译成，"拍马屁办公室"，�
 
 <br>
 <br>
-**2.为这些用户故事编写Acceptance Criteria**   
+**2.为这些用户故事编写Acceptance Criteria**
+
 <br>
 <br>
-```
+```   
 # S - Situation
 ## 我是星巴克负责数字化销售的业务主管
 ## 也是星巴克微信小程序的Product Owner，带领Scrum团队为客户设计创造业务价值的用户旅程
